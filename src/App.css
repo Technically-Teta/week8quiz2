@@ -18,6 +18,28 @@
   filter: drop-shadow(0 0 2em #61dafbaa);
 }
 
+.answer-section-btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-color: #04AA6D;
+  color: green;
+}
+
+.btn{
+  border: 2px solid rgb(48, 17, 202);
+}
+
+.question-text{
+  font-size: larger;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+}
+
+
 @keyframes logo-spin {
   from {
     transform: rotate(0deg);
